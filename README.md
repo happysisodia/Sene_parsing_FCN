@@ -65,4 +65,4 @@ After this we visualized the result we obtained. Fig.7 shows the result that we 
 
 <h4> Contributor </h4> 
 
-I did this whole project along with <a url = "https://github.com/abhinavclemson" > Abhinav Singh </a>  
+I did this whole project along with <a href = "https://github.com/abhinavclemson" > Abhinav Singh </a>  
